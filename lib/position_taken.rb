@@ -6,6 +6,6 @@ def position_taken?(board, index)
   false
 end
 
-def position_taken?(board, index)
-  true
-end
+#def position_taken?(board, index)
+#  true
+#end
