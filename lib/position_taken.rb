@@ -1,3 +1,3 @@
 # code your #position_taken? method here!
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = []
 index = 0
